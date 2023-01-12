@@ -1,5 +1,6 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" align="left" style="width: 100%" />  
-  
+
+<img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" align="right" style="width: 70%" />  
 
 ### <div align="center">I'm Haridev, a highschool student who is interested in Computers 👨‍💻 </div>  
   
@@ -26,7 +27,7 @@ if me.isbreathing():
 
 ## My Skill Set  
 
-<img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" align="right" style="width: 75%" />  
+<img src="https://media.tenor.com/GIYnmPBTFsUAAAAC/keyboard-anime.gif" align="right" style="width: 100%" />  
 
 ### Languages and DB  
 <div align="left">  
