@@ -1,7 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Haridev, a student who is interested in Computers 👨‍💻 </div>  
+### <div align="center">I'm Haridev, a highschool student who is interested in Computers 👨‍💻 </div>  
   
 
 - ✏ I’m currently working on [My youtube channel](https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ)  
@@ -18,6 +18,11 @@
 
 <br/>  
 
+```py
+if me.isbreathing():
+  while trial == max(mycapability):
+    trial += 1
+```
 
 ## My Skill Set  
 
