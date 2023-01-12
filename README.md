@@ -26,6 +26,7 @@ if me.isbreathing():
 
 ## My Skill Set  
 
+<img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" align="right" style="width: 75%" />  
 
 ### Languages and DB  
 <div align="left">  
