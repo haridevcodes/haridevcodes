@@ -62,6 +62,26 @@ if me.is_alive():
 <br/>  
 
 
+
+## Logo
+<p align="center">
+  <a href="https://youtube.com">
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cpp,react,mongodb,django,ps,ai,pr,ae" />
+  </a>
+</p>
+
+
+
+### Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,discord,vscode,blender,au,instagram,twitter,stackoverflow" />
+  </a>
+</p>
+
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/haridevcodes" target="_blank">
