@@ -74,7 +74,7 @@ if me.is_alive():
 
 ### Others
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://youtube.com">
     <img src="https://skillicons.dev/icons?i=github,discord,vscode,blender,au,instagram,twitter,stackoverflow" />
   </a>
 </p>
