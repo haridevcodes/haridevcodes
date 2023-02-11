@@ -66,7 +66,7 @@ if me.is_alive():
 ## Logo
 <p align="center">
   <a href="https://youtube.com">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cpp,react,mongodb,django,ps,ai,pr,ae" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cpp,react,mongodb,django,ps,ai,pr,ae,figma" />
   </a>
 </p>
 
