@@ -1,5 +1,4 @@
-![image](https://static.vecteezy.com/system/resources/previews/005/555/553/original/banner-abstract-background-board-for-text-and-message-design-modern-illustration-free-vector.jpg)
-
+![lol](https://domain.me/wp-content/uploads/2019/10/Bridging-Your-Childs-Passion-with-Coding.jpg)
 
 <a href="https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ" id="github-theme-link">
     <img src="https://readme-typing-svg.demolab.com?font=gotham&size=13&duration=2500&pause=1000&color=369FF7&center=true&vCenter=true&width=467&height=35&lines=Hello%F0%9F%91%8B%2C+I+am+Haridev;I+like+computers+%F0%9F%92%BB;I+am+a+highschool+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I+am+an+artist+%F0%9F%8E%A8" alt="Typing SVG" style="width: 100%" />
