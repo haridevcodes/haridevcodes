@@ -1,6 +1,6 @@
 <img src="https://im2.ezgif.com/tmp/ezgif-2-7e0c8529f1.gif" style="">
 
-<a href="https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ" id="github-theme-link">
+<a href="https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ" target='_blank' id="github-theme-link">
     <img src="https://readme-typing-svg.demolab.com?font=gotham&size=13&duration=2500&pause=1000&color=369FF7&center=true&vCenter=true&width=467&height=35&lines=Hello%F0%9F%91%8B%2C+I+am+Haridev;I+like+computers+%F0%9F%92%BB;I+am+a+highschool+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I+am+an+artist+%F0%9F%8E%A8" alt="Hello there, Image couldn't be loaded sry" style="width: 100%" />
 </a>
   
