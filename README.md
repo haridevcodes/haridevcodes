@@ -28,7 +28,7 @@ if me.is_alive():
 
 ## My Skill Set  
 
-<img src="https://media.tenor.com/GIYnmPBTFsUAAAAC/keyboard-anime.gif" align="right" style="width: 100%" />  
+
 
 ### I am learning
 <div align="left">  
