@@ -1,15 +1,15 @@
 <img src="https://media1.giphy.com/media/RfvXbbo8rTnBBMxx6b/giphy.gif" style="width:10000000px;">
 
 <a href="https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ" target='_blank' id="github-theme-link">
-    <img src="https://readme-typing-svg.demolab.com?font=gotham&size=13&duration=2500&pause=1000&color=369FF7&center=true&vCenter=true&width=467&height=35&lines=Hello%F0%9F%91%8B%2C+I+am+Haridev;I+like+computers+%F0%9F%92%BB;I+am+a+highschool+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I+am+an+artist+%F0%9F%8E%A8" alt="Hello there, Image couldn't be loaded sry" style="width: 100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=gotham&size=13&duration=2500&pause=1000&color=369FF7&center=true&vCenter=true&width=467&height=35&lines=Hello%F0%9F%91%8B%2C+I+am+Haridev;I+like+computers+%F0%9F%92%BB;I+am+a+college+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;I+am+an+artist+%F0%9F%8E%A8" alt="Hello there, Image couldn't be loaded sry" style="width: 100%" />
 </a>
   
 <img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" align="right" style="width: 150px" />  
 
-- ✏ I’m currently working on [My youtube channel](https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ)  
+- ✏ I’m currently working on [Nothing...](https://blank.org/)  
   
 
-- 🌱 I’m currently learning Web Development  
+- 🌱 I’m currently learning Web Development 
   
 
 - 🎹 Playing piano gives me positive vibes  
@@ -32,54 +32,29 @@ if me.is_alive():
 
 ### I am learning
 <div align="left">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://youtube.com">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,html,css,js,git" />
+  </a>
 </div>  
 
 
 
 ### Editing and Design  
 <div align="left">  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-</div>  
+<a href="https://youtube.com">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,notion" />
+</a></div>  
 
 
 
 ### Want to learn  
 <div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
+<a href="https://youtube.com">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,rust,mongodb,django,ae,figma,blender" />
+  </a>
 </div>  
 
 <br/>  
-
-
-
-## Logo
-<p align="center">
-  <a href="https://youtube.com">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,cpp,react,mongodb,django,ps,ai,pr,ae,figma" />
-  </a>
-</p>
-
-
-
-### Others
-<p align="left">
-  <a href="https://youtube.com">
-    <img src="https://skillicons.dev/icons?i=github,discord,vscode,blender,au,instagram,twitter,stackoverflow" />
-  </a>
-</p>
-
-
 
 
 ## Connect with me  
@@ -90,7 +65,7 @@ if me.is_alive():
 <a href="https://twitter.com/haaridev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hdart_haridev" target="_blank">
+<a href="https://instagram.com/haridev.ig" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCuI43x1O6Ul84XaKROg0VKQ" target="_blank">
